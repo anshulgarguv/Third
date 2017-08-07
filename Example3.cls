@@ -24,6 +24,5 @@ private class Example3 {
 
     static testMethod void myUnitTest() {
         // TO DO: implement unit test
-        hii
     }
 }
